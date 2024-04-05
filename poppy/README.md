@@ -24,11 +24,11 @@ Poppies, like most plants we know today, were domesticated and have coevolved to
        zoom="4"
        center="47.77, 12.98"
        prefer-geojson>
-       
+
 <param ve-entity
        eid="Q36422"
        title="Neolithic">
-       
+
 ## Divine Remedies
  
 During the early Neolithic, the opium poppy was the only oily plant cultivated in the western Mediterranean. The poppy's flower had yet to make much of an entrance into popular culture until the spread of the Roman empire (6 B.C.E. - 473 C.E), when barley and poppy were both associated with “Persephone and the promise of perpetual rebirth,” the Minoan goddess of poppies, and Demeter/Isis, goddess of agriculture.[^ref3] 
